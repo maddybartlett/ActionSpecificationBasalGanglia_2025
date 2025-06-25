@@ -26,7 +26,7 @@ These experiments were run on a remote CPU using SLURM. Shell scripts (.sh) were
 
 The dnf network was chosen as the basal ganglia network dynamics and incorporated into the Nengo implementation of the Gurney, Prescott & Redgrave (2001) model (see Stewart, Choo & Eliasmith, 2010). 
 
-![Basal Ganglia model with DNF in striatal layer](http://url/to/img.png)
+![Basal Ganglia model with DNF in striatal layer](https://github.com/maddybartlett/ActionSpecificationBasalGanglia_2025/blob/main/figs/bg_dnf_schematic.pdf)
 
 The scripts for these simulations are in *experiment_2_model_properties*. 
 
