@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import beta, norm
 
 ## data directory and plotting values
-data_dir = './/data//response_data'
+data_dir = '..//data'
 
 COLOURS = ['#e97c4c', '#6a3009', '#0fc9aa', 
            '#d46011', '#b04f0e',
