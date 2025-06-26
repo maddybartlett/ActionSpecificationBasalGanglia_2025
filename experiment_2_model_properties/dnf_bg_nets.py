@@ -1,4 +1,25 @@
-## Author: Dr Madeleine Bartlett
+## Authors: Dr. Madeleine Bartlett, Dr Terrence Stewart
+'''
+Part of this code are copied and adapted from two sources: (1) https://github.com/tcstewar/nengo-dft/tree/main, (2) https://github.com/nengo/nengo-spa/tree/main.
+The first source is made available under the GPL-v3 License. The second source is made available under the GPL-v2 License.
+
+Copyright (C) 2025  Dr. Madeleine Bartlett, Dr P. Michael Furlong, Dr Terrence Stewart, Dr Jeff Orchard
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+'''
+
 import numpy as np
 import nengo
 import nengo_dft

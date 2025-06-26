@@ -1,4 +1,7 @@
-## Script for generating the pareto front plot shown in figure 5. Author Dr. Madeleine Bartlett
+## Script for generating the pareto front plot shown in figure 5.
+## Authors: Dr. Madeleine Bartlett
+'''
+'''
 
 import os, sys
 sys.path.append(os.path.join("..//"))

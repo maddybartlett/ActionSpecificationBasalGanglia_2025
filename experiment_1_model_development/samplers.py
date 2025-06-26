@@ -1,4 +1,5 @@
-## Script for setting the Optuna samplers. Author Dr. Madeleine Bartlett
+## Script for setting the Optuna samplers. 
+## Authors: Dr. Madeleine Bartlett
 
 import optuna
 from typing import Any, Dict

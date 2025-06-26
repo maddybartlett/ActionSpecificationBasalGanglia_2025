@@ -1,5 +1,6 @@
 ## Script for generating the plot illustrating how we take a distribution, convert it to a vector, 
-## and then represent it in the distributed activity of a population of neurons shown in figure 3. Author Dr. Madeleine Bartlett
+## and then represent it in the distributed activity of a population of neurons shown in figure 3. 
+## Authors: Dr. Madeleine Bartlett
 
 import os, sys
 sys.path.append(os.path.join("..//"))

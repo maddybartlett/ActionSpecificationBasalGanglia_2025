@@ -1,4 +1,5 @@
-## Script for building a Deep Attractor Network. Author Dr. Madeleine Bartlett
+## Script for building a Deep Attractor Network.
+## Authors: Dr. Madeleine Bartlett
 '''
 Code Structure:
 

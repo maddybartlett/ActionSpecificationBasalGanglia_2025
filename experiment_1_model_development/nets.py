@@ -1,4 +1,5 @@
-## Script containing the different networks tested as the dynamics of the basal ganglia. Author Dr. Madeleine Bartlett
+## Script containing the different networks tested as the dynamics of the basal ganglia. 
+## Authors: Dr. Madeleine Bartlett
 '''
 '''
 

@@ -1,3 +1,5 @@
+## Authors: Dr. Madeleine Bartlett
+
 import pytry
 import sspspace
 import numpy as np

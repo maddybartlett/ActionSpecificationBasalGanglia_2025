@@ -1,4 +1,7 @@
-## Script for generating the plot showing the different network responses to different input distributions shown in figure 6. Author Dr. Madeleine Bartlett
+## Script for generating the plot showing the different network responses to different input distributions shown in figure 6. 
+## Authors: Dr. Madeleine Bartlett
+'''
+'''
 
 import os
 import pandas as pd

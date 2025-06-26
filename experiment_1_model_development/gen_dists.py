@@ -1,4 +1,5 @@
-## Script for generating the N test patterns to be used in optimizing the networks. Author Dr. Madeleine Bartlett
+## Script for generating the N test patterns to be used in optimizing the networks.
+## Authors: Dr. Madeleine Bartlett
 '''
 '''
 

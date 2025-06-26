@@ -1,5 +1,6 @@
 ## Script for generating the responses of the basal ganglia with dnf network to a unimodel and bimodal distribution shown in figure 8,
-## and for the change in output under different dopamine levels shown in figure 9. Author Dr. Madeleine Bartlett
+## and for the change in output under different dopamine levels shown in figure 9. 
+## Authors: Dr. Madeleine Bartlett
 
 import os, sys
 sys.path.append(os.path.join("..//"))

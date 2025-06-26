@@ -1,4 +1,5 @@
-## Script to run an optuna study optimizing the Shallow Decoder Attractor Network. Author: Madeleine Bartlett
+## Script to run an optuna study optimizing the Shallow Decoder Attractor Network. 
+## Authors: Dr. Madeleine Bartlett
 '''
 This script will run the optuna study by calling the sampler to fetch the parameter values we want to try, 
 using those to construct the network and to define the training parameters, then calling the trial run script
