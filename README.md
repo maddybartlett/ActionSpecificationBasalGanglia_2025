@@ -22,6 +22,10 @@ Hyperparameter optimisation experiments utilised the scripts in *experiment_1_mo
 
 These experiments were run on a remote CPU using SLURM. Shell scripts (.sh) were used to run the experiments. 
 
+### Analysis
+
+.pkl files are provided containing the data from the optuna optimisation experiments. Jupyter Notebook *explore_hpo_data.ipynb* has optional cells for loading the .pkl data. Users must ignore or skip cells 4&5 where data from .npz files generated during optimisation are loaded, converted to dataframes and saved as .pkl files.  
+
 ## Simulation Experiments to Demonstrate Network Properties
 
 The dnf network was chosen as the basal ganglia network dynamics and incorporated into the Nengo implementation of the Gurney, Prescott & Redgrave (2001) model (see Stewart, Choo & Eliasmith, 2010). 
